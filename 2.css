@@ -1,0 +1,115 @@
+body{
+    background-color: rgb(253 255 255 / 48%);
+    
+     overflow-x: hidden;
+     background-position: 100%;
+     background-repeat: no-repeat;
+     background-size: cover;
+     padding-left:20px;
+     padding-top: 50px;
+     
+ }
+ 
+ 
+ .intro{
+    height: 500px;
+    padding-top: 0%;
+     width: 650px;
+     text-size-adjust: 25px;
+
+ }
+ .intro.info{
+     font-size: large;
+ }
+ .intro .img{
+     border: 2px solid black;
+     border-radius: 40%;
+     height: 180px;
+     width: 180px;
+ }
+ 
+ .navbar ul li a{
+     border: solid black;
+     display: inline-block;
+     padding:1px;
+     margin:5px;
+     background: yellowgreen;
+     color:rgb(6, 0, 0);
+     font-size: 20px;
+     border-radius:10%;
+     align-items: flex-end right;
+ }
+ .abtme{
+    padding-top: 10px;
+    
+}
+ .btn{
+     padding:12px 11px;
+     background:rgb(252, 254, 251);
+     color:rgb(9, 0, 0);
+     cursor: pointer;
+     margin-top:10px;
+     font-size: 20px;
+     border-radius: 50px;
+ }
+ 
+ .btn i{
+     padding:3px;
+     font-size: 15px;
+ }
+ .port{
+    background-color: rgb(170, 220, 243);
+    height: 50px;
+    width: 100%;
+ }
+ .project1 .img1{
+    border-radius: 25%;
+    border: 2px solid black;
+ }
+ .my{
+    width: 400px;
+    padding-left: 0%;
+ }
+ .project1{
+text-align: center;
+ }
+ .project2 .img1{
+    border-radius: 25%;
+    border: 2px solid black;
+ }
+.po{
+    border: 2px solid black;
+    padding-left: 20px;
+    width: 1100px;
+       background-color: #86bcbc24;
+       display: flex;
+       text-align: center;
+}
+.po:hover{
+    background-color: antiquewhite;
+    size: 70px;
+}
+.div{
+    display: flex;
+}
+.po .projectA{
+    padding-top: 50px;
+    width: 380px;
+    padding-left: 80px;
+}
+.po .projectB{
+    padding-top: 50px;
+    width: 400px;
+    padding-left: 80px;
+}
+.img1{
+    height: 350px;
+    width: 550px;
+}
+.img1:hover{
+display: block;
+}
+center{
+    font-size: 30px;
+    padding-bottom: 20px;
+}
