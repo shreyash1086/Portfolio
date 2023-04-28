@@ -1,0 +1,22 @@
+body{
+    background-color: rgba(217, 255, 255, 0.48);
+    padding: 0%;
+
+}
+big{
+    font-size: 25px;
+}
+.info{
+    background-color: antiquewhit;
+    width: fit-content;
+    height: fit-content;
+    padding: 10px;
+}
+.info .img .img1{
+    height: 450px;
+    width: 740px;
+    border: 2px solid black;
+}
+.img{
+    display: flex;
+}
